@@ -3,6 +3,18 @@ This is a simple e-commerce website built with Django (Python).
 
 I've made this as a "Jewelry Shopping Website".
 
+## Screenshots
+
+![S1](https://github.com/nikhilyadvv/ecommerce_website/assets/74718187/9aa3bb0a-7e47-4a50-a4c5-adceb05a9123)
+
+![S2](https://github.com/nikhilyadvv/ecommerce_website/assets/74718187/26c13003-2bae-4aa5-b638-8e095d3e9234)
+
+![S3](https://github.com/nikhilyadvv/ecommerce_website/assets/74718187/365277fb-ba9b-42c1-9603-358cd4774efc)
+
+![S4](https://github.com/nikhilyadvv/ecommerce_website/assets/74718187/c13b2ed5-2fa1-4c04-925c-32aefdc4ed47)
+
+![S5](https://github.com/nikhilyadvv/ecommerce_website/assets/74718187/f8f203f3-2894-427a-a61e-11b5cd5d5c0b)
+
 ## Features of this Project
 
 ### A. Admin Users Can
